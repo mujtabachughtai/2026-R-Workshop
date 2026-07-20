@@ -660,8 +660,8 @@ GNI_Population_by_Continent <- WorldBank %>%
 ggsave(
   GNI_Population_by_Continent,
   filename = here("Figures", "GNI_Population_by_Continent.png"),
-  width = 32,
-  height = 24,
+  width = 8,
+  height = 6,
   units = "in",
   dpi = 300
 )
@@ -812,8 +812,8 @@ Pop_GNI_Fossil <- WorldBank %>%
 ggsave(
   Pop_GNI_Fossil,
   filename = here("Figures", "Pop_GNI_Fossil.png"),
-  width = 32,
-  height = 24,
+  width = 8,
+  height = 6,
   units = "in",
   dpi = 300
 )
