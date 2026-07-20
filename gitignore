@@ -1,0 +1,15 @@
+# Ignore everything in the repository by default.
+/*
+
+# Keep this file so the allowlist is applied on GitHub.
+!/.gitignore
+
+# Keep the complete Data folder and everything inside it.
+!/Data/
+!/Data/**
+
+# Keep the requested workshop files.
+!/2026-R-Workshop.pdf
+!/2026-R-Workshop.qmd
+!/README.md
+!/WB.Variables.2016.pdf
