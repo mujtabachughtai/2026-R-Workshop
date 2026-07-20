@@ -8,6 +8,10 @@
 !/Data/
 !/Data/**
 
+# Keep the complete Figures folder and everything inside it.
+!/Figures/
+!/Figures/**
+
 # Keep the requested workshop files.
 !/2026-R-Workshop.pdf
 !/2026-R-Workshop.qmd
